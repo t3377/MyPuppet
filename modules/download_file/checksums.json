@@ -1,0 +1,17 @@
+{
+  "CHANGELOG.md": "9da8ae05fbab788a3e7fb1d181d3bf58",
+  "CONTRIBUTING.md": "d911815dd7d0d90b90bb35382a6e3298",
+  "Gemfile": "b7e8516f82d1f3a3ba932a94b569db78",
+  "LICENSE": "5d1d67d2ed40d59b127333aa755e7087",
+  "README.md": "f24be109ed72c1ce4cf32e2318af8806",
+  "Rakefile": "f8ca8f8a88de0adc8002b5a93b9dd1d6",
+  "manifests/init.pp": "52d1b9754aab0f5382a8fce3fba53fa3",
+  "metadata.json": "e2d2cf90ddc2e5b75b1ceb2daf95bd51",
+  "spec/acceptance/download_file_spec.rb": "d7919428bd27dcb527dca9dbd1135813",
+  "spec/acceptance/nodesets/windows-2008R2-serverstandard-x64.yml": "50219eac8138cc5d1018c8a8b0ff2cdb",
+  "spec/defines/download_file_spec.rb": "d07881d1599a3eebc1a81b5aa7173443",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "spec/spec_helper_acceptance.rb": "c73c7161bd803419d05185c812e4794e",
+  "templates/download.ps1.erb": "f5cea7a9bd4344efe4d103f343b49660"
+}

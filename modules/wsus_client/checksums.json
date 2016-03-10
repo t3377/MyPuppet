@@ -1,0 +1,22 @@
+{
+  "CHANGELOG.md": "a286e9559c5d7af632fdb2bc3d0fa02d",
+  "CONTRIBUTING.md": "8d384cc10b0e2508da8e22b1ccc76678",
+  "Gemfile": "b6fe51bf214ff63252924e70325e13f3",
+  "README.md": "2ae3fdd6009e61b7f61caed59008e664",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "appveyor.yml": "5e0d5029e8e15537e81b6b5866f8be38",
+  "lib/puppet/parser/functions/parse_auto_update_option.rb": "b01fb3a2728c88e82d877fe31bf3ff42",
+  "lib/puppet/parser/functions/parse_scheduled_install_day.rb": "6b4eca2328968923b3ba194f9e15c45d",
+  "lib/puppet/parser/functions/validate_in_range.rb": "efc8ca523bf46b22e2e260c09fb5683a",
+  "manifests/init.pp": "45ec1e81efcfb3dba0d2a61881e8e99e",
+  "manifests/setting.pp": "467496e5da0d0cf53603a674922b5148",
+  "metadata.json": "4f3dc7b32e8360bb5b580fb0c9bb57c9",
+  "spec/acceptance/nodesets/default.yml": "4c80752e70b75a3aacd49ddeee1f2523",
+  "spec/acceptance/wsus_client_spec.rb": "04cf82a9090aac9adc3f3a334af78374",
+  "spec/classes/init_spec.rb": "5d9b753a6aa83a89a4ccd0f7a9942e89",
+  "spec/functions/parse_auto_update_option_spec.rb": "714478a8177dd55eca4c2677f59c81ea",
+  "spec/functions/parse_scheduled_install_day_spec.rb": "cc6e739d0be81924c2b423576f90186e",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "spec/spec_helper_acceptance.rb": "13de6b0659e9c8f74caaf8c681d2b931"
+}

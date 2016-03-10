@@ -1,0 +1,37 @@
+{
+  "name": "puppetlabs/wsus_client",
+  "version": "1.0.1",
+  "author": "puppetlabs",
+  "summary": "Manage WSUS(Windows Server Update Service) settings for client nodes",
+  "license": "Apache-2.0",
+  "source": "https://github.com/puppetlabs/puppetlabs-wsus_client",
+  "project_page": "https://tickets.puppetlabs.com/browse/MODULES/",
+  "issues_url": "https://tickets.puppetlabs.com/browse/MODULES/",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 4.6.0 < 5.0.0"},
+    {"name":"puppetlabs-registry","version_requirement":">= 1.0.0"}
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2003",
+        "Server 2003 R2",
+        "Server 2008",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">= 3.7.0 < 2015.4.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.7.0 < 5.0.0"
+    }
+  ]
+}
